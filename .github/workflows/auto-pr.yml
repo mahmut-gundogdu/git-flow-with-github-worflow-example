@@ -1,4 +1,4 @@
-name: Create PR from rel-1.0 to main
+name: Create PR from rel-10 to main
 on:
   push:
     branches:
